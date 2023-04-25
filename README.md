@@ -1,10 +1,32 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Welcome to the project MySQL One For All repositorie!
+This project was made using MySQL knowledge. It creates a new similar spotify database, it is a project just to gain some experience in MySQL.
+
+# Development
+
+This project was developed by [Igor Carvalho](https://www.linkedin.com/in/dev-igor-carvalho/) while studying at Trybe.
+
+# Details about the project
+
+<details>
+  <summary><strong>👨‍💻 Used tecnologies</strong></summary><br />
+
+  - MySQL
+  - JavaScript
+
+</details>
+
+<details>
+  <summary><strong>How to use my project</strong></summary><br />
+  
+> You can only test the database creation and queries. This project doesn't create any feature.
+  
+  - Clone the repositorie
+  - Cntrl + a + Copy in the desafio1.sql file
+  - Create a new txt file, rename to db.sql and Cntrl + v
+  - Open MySQL Workbench
+  - Open db.sql script
+  - Run script
+  
+> The queries are in the desafioN.sql files either
+
+</details>
