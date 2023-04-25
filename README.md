@@ -1,5 +1,5 @@
 # Welcome to the project MySQL One For All repositorie!
-This project was made using MySQL knowledge. It creates a new similar spotify database, it is a project just to gain some experience in MySQL.
+This project was made using MySQL knowledge. It creates a new similar spotify normalized database, it is a project just to gain some experience in MySQL.
 
 # Development
 
