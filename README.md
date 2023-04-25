@@ -12,6 +12,7 @@ This project was developed by [Igor Carvalho](https://www.linkedin.com/in/dev-ig
 
   - MySQL
   - JavaScript
+  - JSON
 
 </details>
 
