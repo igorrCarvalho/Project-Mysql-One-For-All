@@ -16,7 +16,7 @@ This project was developed by [Igor Carvalho](https://www.linkedin.com/in/dev-ig
 </details>
 
 <details>
-  <summary><strong>How to use my project</strong></summary><br />
+  <summary><strong>👉How to use my project</strong></summary><br />
   
 > You can only test the database creation and queries. This project doesn't create any feature.
   
